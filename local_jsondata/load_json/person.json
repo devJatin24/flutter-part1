@@ -1,0 +1,26 @@
+[
+    {
+        "sno": "1",
+        "name" : "jatin",
+        "subject" : ["math","science","sst"]
+    },
+    {
+        "sno": "2",
+        "name" : "jatin",
+        "subject" : ["math","science","sst"]
+    },
+    {
+        "sno": "3",
+        "name" : "jatin",
+        "subject" : ["math","science","sst"]
+    },{
+        "sno": "4",
+        "name" : "jatin",
+        "subject" : ["math","science","sst"]
+    },
+    {
+        "sno": "5",
+        "name" : "jatin",
+        "subject" : ["math","science","sst"]
+    }
+]
